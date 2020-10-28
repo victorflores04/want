@@ -6,26 +6,32 @@ body {
 }
 
 #btnSi {
-    background: transparent;
-    border: 3px solid #F55064;
+    background: #f50057;
+    border: 3px solid #f50057;
+    color: white;
     border-radius: 70px;
     padding: 10px 20px;
     font-size: 20px;
     font-family: 'Love Ya Like A Sister', cursive;
+    transition: color .3s ease;
+    
 }
 
 #btnNo {
-    background: transparent;
-    border: 3px solid #F55064;
+    background: #f50057;
+    border: 3px solid #f50057;
+    color: white;
     border-radius: 70px;
     padding: 10px 20px;
     font-size: 20px;
     font-family: 'Love Ya Like A Sister', cursive;
+    transition: color .3s ease;
 }
 
 #btnSi:hover {
-    background-color: #F55064;
-    color: white;
+    background-color: #ff5252;
+    border: 3px solid #ff5252;
+    color: #f5f5f5;
 }
 
 .back {
