@@ -6,7 +6,7 @@ body {
 }
 
 #btnSi {
-    background: #ff5252;
+    background: red;
     border: 3px solid #f50057;
     color: white;
     border-radius: 70px;
@@ -18,7 +18,7 @@ body {
 }
 
 #btnNo {
-    background: #ff5252;
+    background: red;
     border: 3px solid #f50057;
     color: white;
     border-radius: 70px;
